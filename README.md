@@ -2,6 +2,8 @@
 
 A simple **Task Management Web App** that allows users to **create, view, and rename tasks**. Instead of a traditional database, this app stores tasks as text files in the local filesystem. It is built using **Node.js, Express, EJS templates, and Tailwind CSS** for styling.
 
+***Website live at:***
+
 ---
 
 ## 🚀 Features
@@ -37,41 +39,6 @@ A simple **Task Management Web App** that allows users to **create, view, and re
 
 ---
 
-## ⚙️ Installation & Usage
-
-1. **Clone the repo**
-
-   ```bash
-   git clone https://github.com/your-username/task-manager-fs.git
-   cd task-manager-fs
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the app**
-
-   ```bash
-   node index.js
-   ```
-
-4. **Open in browser**
-
-   ```
-   http://localhost:3000
-   ```
-
----
-
-## 🖼️ Screenshots
-
-*(You can add screenshots here after running the app and capturing them.)*
-
----
-
 ## 🔮 Future Improvements
 
 * Add **delete task** feature.
@@ -81,6 +48,3 @@ A simple **Task Management Web App** that allows users to **create, view, and re
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
